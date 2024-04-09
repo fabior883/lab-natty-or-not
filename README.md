@@ -23,13 +23,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu objetivo é através das Inteligências Artificiais Generativas, apresentar o trabalho proposto pelo professor Venilson. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Listei as IAs Generativas e outras ferramentas usadas nesse desafio:
+- ChatGP;
+- Gamma.app;
+- 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Para refinar meu tema nessa tarefa, utilize o ChatGPT no Prompt o tema escolhido por mim, que é referente a área de trabalho que atuo. Manutenção de equipamentos hospitalares. 
+
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
